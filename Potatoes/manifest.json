@@ -1,0 +1,11 @@
+{
+	"id": "potato",
+	"name": "Potatoes",
+	"display_name": "Potatoes",
+	"author": ["Andrea", "My Girlfriend Layna"],
+	"description": "A Balatro mod",
+	"prefix": "potato",
+	"main_file": "main.lua",
+	"priority": 0,
+	"version": "1.0.0"
+}
